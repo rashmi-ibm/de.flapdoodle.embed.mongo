@@ -10,8 +10,6 @@ addons:
     - mongo-test-host
   hostname: mongo-test-host
 script: $TARGET
-os:
-  - linux-ppc64le
 jdk:
   - openjdk8
 
